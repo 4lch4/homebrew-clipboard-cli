@@ -5,7 +5,7 @@ class ClipboardCli < Formula
   desc "Cross-platform clipboard utility for the command line."
   homepage "https://github.com/4lch4/clipboard-cli"
   url "https://github.com/4lch4/clipboard-cli/releases/download/v2.0.1/clipboard-cli-macos-v2.0.1.tar.gz"
-  sha256 "435bbc4b7236009597f92de4fb26a60e740c14a780143f894058c168de5d4a72"
+  sha256 "d1478062a8657dd03d8e886b023b60e42566a2c061e53df43845ebd0cb4491f4"
   version "2.0.1"
 
   def install
